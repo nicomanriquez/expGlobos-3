@@ -1,2 +1,1 @@
-# expGlobos-3
-explotar globos parte final
+# explotar-globos-3-plantilla
